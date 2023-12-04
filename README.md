@@ -5,3 +5,4 @@ Desenvolvedores: </br>
 Luiza Xavier Nakahira - luizanakahira40@gmail.com </br>
 Lucas Silva Teixeira - lucas.texx@gmail.com</br>
 Julia Beiroco Oliveira Fantini - juliabeiroco@alunos.utfpr.edu.br</br> 
+Yasmin Ignochevski Primao - yasminprimao@hotmail.com
